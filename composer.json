@@ -4,8 +4,8 @@
   "description": "Project template for Drutiny development",
   "minimum-stability": "dev",
   "require": {
-    "drutiny/drutiny": "2.3.x-dev",
-    "drutiny/acquia": "2.x-dev",
+    "drutiny/drutiny": "2.3.*@dev",
+    "drutiny/acquia": "2.*@dev",
     "drutiny/plugin-drupal-7": "2.x-dev",
     "drutiny/plugin-drupal-8": "2.x-dev",
     "drutiny/sumologic": "2.x-dev",
